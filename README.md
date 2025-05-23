@@ -41,8 +41,6 @@ This project implements an end-to-end deep learning model for autonomous driving
 
 ```
 ├── Mikil_DLAV_Phase3.py          # Main training and inference script
-├── best_model.pth                # Saved best model weights
-├── submission_phase3.csv         # Final predictions for test set
 └── README.md                     # This file
 ```
 
