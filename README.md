@@ -126,12 +126,12 @@ Combines synthetic simulator data with real-world data to bridge the domain gap:
 ## Results
 
 ### Performance Metrics
-- **Best Validation ADE**: 1.8493
+- **Best Validation ADE**: 1.8151
 - **Best Validation FDE**: 5.3279
 - **Training Convergence**: Achieved at epoch 59/60
 
 ### Training Progression
-- **Epoch 1**: ADE 7.31 → **Epoch 59**: ADE 1.85
+- **Epoch 1**: ADE 7.31 → **Epoch 59**: ADE 1.81
 - **Steady improvement** with occasional fluctuations
 - **Effective learning rate decay** from 8e-4 to 1e-6
 
