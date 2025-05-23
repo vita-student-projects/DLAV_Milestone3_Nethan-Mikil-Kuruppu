@@ -157,11 +157,6 @@ Combines synthetic simulator data with real-world data to bridge the domain gap:
 4. **Advanced Loss Functions**: Time-weighted loss, acceleration smoothness
 5. **Architecture Search**: Automated hyperparameter optimization
 
-### Expected Gains
-- **Ensemble**: ADE 1.85 → 1.75 (-0.10)
-- **TTA**: Additional -0.05 improvement
-- **Attention**: Potential for ADE < 1.70
-
 ## Technical Notes
 
 ### Key Design Decisions
